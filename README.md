@@ -40,7 +40,7 @@ Honnygloire MBOMBOTO TO HOUNDA
 Group: mbombo_h 1066895 
 
 ## Project Structure
-
+```
 blog-manager/
 ├── public/
 │   └── favicon.ico
@@ -72,7 +72,7 @@ blog-manager/
 ├── package-lock.json
 ├── tsconfig.json
 └── README.md
-
+```
 
 ## Features
 
