@@ -1,4 +1,3 @@
-# Groupe de mbombo_h 1066895
 # Blog Manager
 
 ##  Project Description
@@ -6,6 +5,8 @@
 Blog Manager is a simple blog application built with React and TypeScript. It allows users to create, view, edit, and delete articles. All data is stored locally in the browser using localStorage, so no backend or external database is required.
 
 The goal of this project is to practice modern frontend development with React, including component structure, state management, routing, and form validation.
+
+This project was developed as part of a frontend development module at ETNA (École des Technologies Numériques Appliquées), focusing on React, TypeScript, and client-side architecture.
 
 ##  Technologies
 
@@ -37,7 +38,7 @@ Then open your browser and go to http://localhost:5173.
 ## Author
 
 Honnygloire MBOMBOTO TO HOUNDA 
-Group: mbombo_h 1066895 
+
 
 ## Project Structure
 ```
